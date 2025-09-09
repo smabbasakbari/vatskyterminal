@@ -38595,7 +38595,7 @@
     "icao": "OPIS",
     "iata": "ISB",
     "name": "Islamabad International",
-    "city": "Attock",
+    "city": "Islamabad",
     "state": "PK-PB",
     "country": "PK",
     "elevation": 1761,
@@ -54622,6 +54622,18 @@
     "lat": 22.249599,
     "lon": 91.813301,
     "tz": ""
+  },
+    "VGHS": {
+    "icao": "VGHS",
+    "iata": "DAC",
+    "name": "Hazrat Shahjalal International",
+    "city": "Dhaka",
+    "state": "BD-C",
+    "country": "BD",
+    "elevation": 30,
+    "lat": 23.843347,
+    "lon": 90.397783,
+    "tz": "Asia/Dhaka"
   },
   "VGIS": {
     "icao": "VGIS",
